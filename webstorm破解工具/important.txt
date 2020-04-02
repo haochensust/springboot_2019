@@ -4,3 +4,8 @@
 如有Agent问题，请前往 https://zhile.io 反馈。
 
 请认准 jetbrains-agent 一手更新：https://zhile.io/2018/08/17/jetbrains-license-server-crack.html
+
+jetbrains-agent.jar放在bin目录下
+
+help->Edit custom vm options 添加：
+-javaagent:D:\Software\WebStorm-2019.2.4\bin\jetbrains-agent.jar
